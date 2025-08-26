@@ -10,10 +10,7 @@
 
 <p>
   <img src="https://raw.githubusercontent.com/AndreiYala/AndreiYala/refs/heads/main/Yala.png" 
-       alt="Yala Logo" 
-       width="150" 
-       align="left" 
-       style="margin-right:15px;" />
-  In real life, I am <b>Andrei</b>, and in the digital space I go by <b>Yala</b> — combined, they form <b>AndreiYala</b>.  
-  Pwede mo pang dagdagan dito ng mas mahabang explanation.
+        alt="alt text" width="250" style="float: left; margin-right: 15px; margin-top: 0;" />
 </p>
+
+  
