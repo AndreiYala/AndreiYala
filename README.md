@@ -9,7 +9,7 @@
 ### In real life, I am **Andrei**, and in the digital space I go by **Yala** — combined, they form **AndreiYala**.
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/AndreiYala/AndreiYala/refs/heads/main/Yala.png" alt="alt text" width="150" style="float: left; margin-right: 15px; />
+  <img src="https://raw.githubusercontent.com/AndreiYala/AndreiYala/refs/heads/main/Yala.png" alt="alt text" width="150" style="float: left; margin-right:  />
 </p>
 
 Your text here beside the image.  
