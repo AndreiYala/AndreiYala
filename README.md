@@ -10,10 +10,11 @@
 
 <p>
 
-  <img src="https://raw.githubusercontent.com/AndreiYala/AndreiYala/refs/heads/main/Yala.png" 
+  <img src="https://raw.githubusercontent.com/AndreiYala/AndreiYala/refs/heads/main/Yala.png"   
        alt="alt text" width="250" 
-       style="float: left; margin-right: 15px; margin-top: 0;" />
-  I love the moment where art meets technology, creating something beyond both.<br>
-  I never stop learning, especially as the future continues to change.<br>
-  And one more thing — I love French fries.
+       style="float: left; margin-right: 15px; margin-top: 0;" />  
+                                                                  I love the moment where art meets technology, creating something beyond both.<br>
+                                                                  I never stop learning, especially as the future continues to change.<br>
+                                                                   And one more thing — I love French fries.
+ 
 </p>
